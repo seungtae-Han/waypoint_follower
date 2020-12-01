@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>waypoint_follower</name>
+  <version>0.0.0</version>
+  <description>The waypoint_follower package</description>
+  <maintainer email="jst1000@naver.com">Han Seung Tae</maintainer>
+  <license>TODO</license>
+  <author email="jst1000@naver.com">Han Seung Tae</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
